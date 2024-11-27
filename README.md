@@ -27,8 +27,8 @@ How to Run the Code
 3. Run the Jupyter notebook or Python scripts to solve the problems.
 
 Dependencies
-Python 3.x
-numpy
-scipy
-matplotlib (for graphical solutions)
-jupyter notebook
+1. Python 3.x
+2. numpy
+3. scipy
+4. matplotlib (for graphical solutions)
+5. jupyter notebook
